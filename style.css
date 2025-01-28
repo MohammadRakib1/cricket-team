@@ -75,6 +75,7 @@ input {
 
 .apply-btn {
     padding: 8px;
+    cursor: pointer;
 }
 
 .add-btn {
